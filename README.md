@@ -1,4 +1,4 @@
-# 🍴 Restaurant Database Project (SQL)
+# Restaurant Database Project (SQL)
 
 ## Overview
 This project models a restaurant ordering system with **Customers**, **Menu Items**, and **Orders** tables.
